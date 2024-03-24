@@ -1,4 +1,4 @@
-<h1>Hi, I'm Carlos! <br/><a href="https://www.linkedin.com/in/cvaldivia97/">IT Logistics Technician</a></h1>
+ <h1>Hi, I'm Carlos! <br/><a href="https://www.linkedin.com/in/cvaldivia97/">IT Logistics Technician</a></h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
@@ -12,7 +12,7 @@
 
 [<img align="left" alt="CarlosValdivia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/CarlosValdivia97
+[linkedin]: https://linkedin.com/in/Cvaldivia97
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
