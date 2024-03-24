@@ -6,7 +6,7 @@
 
 <h2>🎓 Certifcations</h2>
 
-- [CompTia A+](file:///Users/carlos/Downloads/CompTIA%20A+%20ce%20certificate.pdf)
+- [CompTia A+](https://imgur.com/a/FDngttz)
 
 <h2>📲 Connect with me:</h2>
 
